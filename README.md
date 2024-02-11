@@ -1,7 +1,7 @@
 # Welcome to @chariliezxje's GitHub Profile!
 
 ## 👋 Introduction
-Hello! I'm @hoangminhnguyen7153, and I am deeply passionate about the world of coding, specifically in the realm of collaborative projects. My journey in tech is currently centered around Web Development, and I am eager to learn, grow, and contribute to this vibrant community.
+Hello! I'm @chariliezxje, and I am deeply passionate about the world of coding, specifically in the realm of collaborative projects. My journey in tech is currently centered around Web Development, and I am eager to learn, grow, and contribute to this vibrant community.
 
 ## 🌱 Learning Journey
 As of now, I am immersed in the fascinating world of Web Development. This field offers endless possibilities to create, innovate, and make an impact on users worldwide. I am dedicating my time to mastering the technologies and methodologies that drive the modern web, aiming to become proficient in both front-end and back-end development aspects.
