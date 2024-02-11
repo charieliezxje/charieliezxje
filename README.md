@@ -1,4 +1,4 @@
-# Welcome to @hoangminhnguyen7153's GitHub Profile!
+# Welcome to @chariliezxje's GitHub Profile!
 
 ## 👋 Introduction
 Hello! I'm @hoangminhnguyen7153, and I am deeply passionate about the world of coding, specifically in the realm of collaborative projects. My journey in tech is currently centered around Web Development, and I am eager to learn, grow, and contribute to this vibrant community.
