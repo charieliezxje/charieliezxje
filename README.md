@@ -21,6 +21,12 @@ He/him/his
 ## ⚡ Fun Fact
 Despite my love for coding and technology, I have a confession to make: I hate C and Assembly! While I recognize their importance in the foundation of programming and computer science, they're just not my cup of tea. I much prefer the dynamic and ever-evolving world of Web Development.
 
+## GitHub Profile Stats for charieliezxje
+
+![Hoang Son's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charieliezxje&theme=radical)
+
+![Hoang Son's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=charieliezxje&theme=radical&layout=compact)
+
 ---
 
 I'm looking forward to connecting with you and exploring the endless possibilities that coding and technology have to offer. Let's make something great together!
