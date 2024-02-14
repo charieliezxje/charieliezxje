@@ -23,9 +23,9 @@ Despite my love for coding and technology, I have a confession to make: I hate C
 
 ## GitHub Profile Stats for charieliezxje
 
-![Hoang Son's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charieliezxje&theme=radical)
+![charieliezxje's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charieliezxje&theme=radical)
 
-![Hoang Son's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=charieliezxje&theme=radical&layout=compact)
+![charieliezxje's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=charieliezxje&theme=radical&layout=compact)
 
 ---
 
